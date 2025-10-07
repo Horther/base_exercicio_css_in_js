@@ -8,6 +8,7 @@ export const Form = styled.form`
   position: relative;
   display: flex;
   align-items: center;
+  justify-content: center;
 
   &:before {
     position: absolute;
